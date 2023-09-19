@@ -11,3 +11,67 @@ font-size: 90px;
 font-weight: bolder;
 text-align: center;}
 
+#container{width: 60%;
+margin: 5% auto;
+height: 100%;}
+
+#button1{background-color:#47ADF1;
+color: white;
+border-color: #47ADF1;
+border-radius: 5px;
+padding: 10px 15px;}
+
+#button2{color:#C8CED3;
+border-color: #C8CED3;
+border-radius: 5px;
+padding: 10px 15px;
+margin-left: 7px;}
+
+.titoletto{margin-top: 3%;
+margin-bottom: 15px;
+font-size: 30px;}
+
+.activity{font-size: 25px;
+margin-bottom: 5%;}
+
+.check{display: inline-block;
+border-radius: 50%;
+border: black solid 2px;
+padding: 1px 4px;
+margin-right: 10px;}
+
+.cross{display: inline-block;
+    border-radius: 50%;
+    border: red solid 2px;
+    padding: 1px 4px;
+    margin-right: 10px;}
+
+.task-container{margin-bottom: 8px;}
+
+.editorial{background-color: #47ADF1;
+border: #47ADF1 solid 1px;
+border-radius: 12px; 
+color: white;
+padding: 5px 15px;
+margin-left: 15px;}
+
+.Q1-goals{background-color:#9C72E4;
+border: #9C72E4 solid 1px;
+border-radius: 12px;    
+color: white;
+padding: 5px 15px;
+margin-left: 15px;}  
+
+.recruiting{background-color:#64C0A9;
+border: #64C0A9 solid 1px;
+border-radius: 12px;    
+color: white;
+padding: 5px 15px;
+margin-left: 15px;}
+
+.mobile{background-color: #F29E33;
+border: #F29E33;
+border-radius: 12px;    
+color: white;
+padding: 5px 15px;
+margin-left: 15px;}
