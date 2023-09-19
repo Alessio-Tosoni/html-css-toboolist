@@ -18,21 +18,25 @@ height: 100%;}
 #button1{background-color:#47ADF1;
 color: white;
 border-color: #47ADF1;
-border-radius: 5px;
-padding: 10px 15px;}
+border-radius: 8px;
+padding: 10px 15px;
+font-size: 20px;}
 
 #button2{color:#C8CED3;
 border-color: #C8CED3;
-border-radius: 5px;
+border-radius: 8px;
 padding: 10px 15px;
-margin-left: 7px;}
+margin-left: 7px;
+font-size: 20px;}
 
 .titoletto{margin-top: 3%;
 margin-bottom: 15px;
-font-size: 30px;}
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;}
 
-.activity{font-size: 25px;
-margin-bottom: 5%;}
+.activity{font-size: 35px;
+margin-bottom: 5%;
+font-family: Arial, Helvetica, sans-serif;}
 
 .check{display: inline-block;
 border-radius: 50%;
@@ -46,32 +50,58 @@ margin-right: 10px;}
     padding: 1px 4px;
     margin-right: 10px;}
 
-.task-container{margin-bottom: 8px;}
+.task-container{margin-bottom: 20px;}
 
 .editorial{background-color: #47ADF1;
 border: #47ADF1 solid 1px;
 border-radius: 12px; 
 color: white;
 padding: 5px 15px;
-margin-left: 15px;}
+margin-left: 15px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;}
 
 .Q1-goals{background-color:#9C72E4;
 border: #9C72E4 solid 1px;
 border-radius: 12px;    
 color: white;
 padding: 5px 15px;
-margin-left: 15px;}  
+margin-left: 15px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;}  
 
 .recruiting{background-color:#64C0A9;
 border: #64C0A9 solid 1px;
 border-radius: 12px;    
 color: white;
 padding: 5px 15px;
-margin-left: 15px;}
+margin-left: 15px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;}
 
 .mobile{background-color: #F29E33;
-border: #F29E33;
+border: #F29E33 solid 1px;
 border-radius: 12px;    
 color: white;
 padding: 5px 15px;
-margin-left: 15px;}
+margin-left: 15px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;}
+
+.website{background-color: #D863A1;
+border:#D863A1 solid 1px;
+border-radius: 12px;    
+color: white;
+padding: 5px 15px;
+margin-left: 15px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;}
+
+.sales{background-color: #B0C926;
+border: #B0C926 solid 1px;
+border-radius: 12px;    
+color: white;
+padding: 5px 15px;
+margin-left: 15px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;}
